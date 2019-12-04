@@ -1,0 +1,5 @@
+# lib and exp
+*.exp
+*.lib
+expts/*.exp
+expts/*.lib
